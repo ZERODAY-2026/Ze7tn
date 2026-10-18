@@ -1,0 +1,59 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Env and secrets (never commit)
+.env
+.env.*
+!.env.example
+
+# Local model / index artifacts (may contain private document content)
+.chroma/
+chroma/
+*.bin
+*.gguf
+*.safetensors
+hf_cache/
+.cache/
+sentence-transformers/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# IDE / OS
+.idea/
+.vscode/
+.cursor/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Uploaded user documents (never commit private files)
+uploads/
+tmp/
+*.pdf
+!examples/**
+
+# Logs
+*.log
+logs/
