@@ -1,0 +1,38 @@
+FICTIONAL SAMPLE — NOT A REAL CONTRACT — NOT LEGAL ADVICE
+Public placeholder for offline demos of the Legal Document Triage Agent.
+
+MUTUAL NON-DISCLOSURE AGREEMENT (SAMPLE)
+This sample is dated 1 January 2025.
+
+Parties
+Acme Widgets LLC (“Disclosing Party”) and Northwind Review Co. (“Receiving Party”).
+
+1. Confidential Information
+“Confidential Information” means written information marked “Confidential” that the
+Disclosing Party provides to the Receiving Party after the date of this sample.
+
+2. Non-use and non-disclosure
+The Receiving Party shall not disclose Confidential Information to any third party
+and shall use Confidential Information only to evaluate a possible commercial
+discussion between the parties.
+
+3. Duration of confidentiality obligations
+The obligations in section 2 continue for two (2) years after the date the
+Receiving Party receives the applicable Confidential Information.
+
+4. Exclusions
+Confidential Information does not include information that is publicly available
+without breach of this sample, or that the Receiving Party already possessed
+without a confidentiality duty.
+
+5. No license
+Nothing in this sample grants a license under any patent, copyright, or trademark.
+
+6. No obligation to deal
+Nothing in this sample requires either party to enter into any further agreement.
+
+7. Governing text
+This sample is governed by the written words on this page only. It does not
+state a governing-law clause, a venue clause, or a remedy for breach.
+
+END OF FICTIONAL SAMPLE
