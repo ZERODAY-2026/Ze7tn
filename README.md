@@ -1,4 +1,14 @@
+# PS2 — Agentic AI: Private Legal Document Triage Agent
+
+## Problem Statement
+
+Legal documents such as rental agreements, employment contracts, legal notices and service agreements contain complex terminology and clauses that ordinary people find hard to understand, and professional help for every first question is not always practical.
+
+---
+
 # Legal Document Triage Agent
+
+<!-- your existing content starts here --># Legal Document Triage Agent
 
 Privacy-first, **fully on-device** legal *document triage* for ZeroDay OSS Hacktoberfest 2026 (PS2).
 
